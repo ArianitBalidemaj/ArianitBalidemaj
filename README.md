@@ -3,7 +3,7 @@
     
 <h3 ><width = 30px> 🏀 Bio :grin: </h3>
 
-:boom: I'm an aspiring software engineer currently in my 2nd year of university. I have a ton of interest in backend for projects. I am always open to learning new languages and learn from my peers. I am currently working on a facial recoginition device for lock systems. I am also currently looking for an internship for the summer of 2023. I would love to join a team of other interns and learning from my higher ups and what it takes to become a high-level software developer. 
+:boom: I'm an aspiring software engineer currently in my 2nd year of university. I have a ton of interest in backend for projects. I am always open to learning new languages and learn from my peers. I am currently working on a facial recoginition device for lock systems. I am also currently looking for an internship for the summer of 2023. I would love to join a team of other interns and learn from my higher ups and what it takes to become a high-level software developer. 
   
 <h3 ><width = 30px> 	:100: Technical Skills	:100: </h3>
   
