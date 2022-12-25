@@ -11,7 +11,8 @@
 
  <h3 align="left" ><width = 30px> :ghost: My Social Media! :smiley_cat: </h3>
 
- <a href= "https://www.linkedin.com/in/arianit-balidemaj-126b031ab/"><img align="center" src="https://raw.githubusercontent.com/ArianitBalidemaj/ArianitBalidemaj/main/Images/linkedin.svg" alt= "icon | LinkedIn" width="50px"/></a>
+ <a href= "https://www.linkedin.com/in/arianit-balidemaj-126b031ab/"><img align="center" src="https://raw.githubusercontent.com/ArianitBalidemaj/ArianitBalidemaj/main/Images/linkedin.svg" alt= "icon | LinkedIn" width="50px"/></a> <a href= "https://www.instagram.com/diparianit/"><img align="center" src="https://raw.githubusercontent.com/ArianitBalidemaj/ArianitBalidemaj/main/Images/instagram.svg" alt= "icon | Instagram" width="50px"/></a>
+ 
 
  
 <h3 ><width = 30px> :black_nib: Past Projects :open_file_folder: </h3>
