@@ -13,12 +13,8 @@
 
  <a href= "https://www.linkedin.com/in/arianit-balidemaj-126b031ab/"><img align="center" src="https://raw.githubusercontent.com/ArianitBalidemaj/ArianitBalidemaj/main/Images/linkedin.svg" alt= "icon | LinkedIn" width="50px"/></a> <a href= "https://www.instagram.com/diparianit/"><img align="center" src="https://raw.githubusercontent.com/ArianitBalidemaj/ArianitBalidemaj/main/Images/instagram.svg" alt= "icon | Instagram" width="50px"/></a>
  
-
- 
-<h3 ><width = 30px> Past Projects :open_file_folder: </h3>
-Currently working on a facial recognition product with a friend in the engineering field.
 <h3 ><width = 30px> :open_book: Education 	:books:  </h3>
-  I currently attend Boston University as a sophmore and intend to graduate by May, 2025. My degree will be a BA in Computer Science and Mathematics. Mathematics is an area I want to pursue even further, in specific Statistics and it's applications. 
+  I currently attend Boston University as a sophmore and intend to graduate by December, 2024. My degree will be a BA in Computer Science and Mathematics. Mathematics is an area I want to pursue even further, in specific Statistics and it's applications. 
 <p align="left"><img src = https://media2.giphy.com/media/PmpDHNIPGR8lkAU6eq/giphy.gif?cid=790b7611a07b18c702298624316ad3ee996e8961bf2d5f2a&rid=giphy.gif&ct=s  width="200" height="200">
   <p>
 <h3> <width = 30px> GitHub Stats  </h3>
