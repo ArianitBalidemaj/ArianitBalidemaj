@@ -3,7 +3,7 @@
     
 <h3 ><width = 30px> Bio  </h3>
 
-:boom: I'm an aspiring software engineer currently in my 3rd year of university. I have a ton of interest in backend for projects. I am always open to learning new languages and learn from my peers. I am currently working on a facial recognition device for lock systems. I am also currently looking for an internship for the summer of 2024. I would love to join a team of other interns and learn from my higher ups and what it takes to become a high-level software developer. 
+:boom: I'm an aspiring software engineer currently in my 4th year of university. I have a ton of interest in backend for projects. I am always open to learning new languages and learn from my peers. I am currently working on a facial recognition device for lock systems. I am also currently looking for an internship for the summer of 2024. I would love to join a team of other interns and learn from my higher ups and what it takes to become a high-level software developer. 
   
 <h3 ><width = 30px> 	 Technical Skills </h3>
   
